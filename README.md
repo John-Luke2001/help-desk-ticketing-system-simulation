@@ -39,7 +39,7 @@ help-desk-ticketing-system-simulation/
 | ---------- | ---------------------- | -------------------- | -------- |
 | Ticket 001 | Password Reset Request | Account Access       | Resolved |
 | Ticket 002 | VPN Connection Issue   | Network / VPN Access | Resolved |
-
+| Ticket 003 | Printer Not Working | Hardware / Printer Support | Resolved |
 
 ## Purpose
 
