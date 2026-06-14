@@ -1,6 +1,8 @@
 # Help Desk Ticketing System Simulation
 
 ## Project Overview
+This project includes five simulated Tier 1 support tickets covering account access, VPN troubleshooting, printer support, Windows performance issues, and Microsoft 365 login problems. Each ticket documents the user impact, troubleshooting process, resolution, escalation decision, and skills demonstrated.
+
 
 This project simulates a basic help desk ticketing workflow used in Tier 1 IT support environments. The goal is to demonstrate how common user issues are documented, prioritized, troubleshot, resolved, and escalated when needed.
 
@@ -29,8 +31,12 @@ help-desk-ticketing-system-simulation/
 │
 └── tickets/
     ├── ticket-001-password-reset.md
-    └── ticket-002-vpn-connection-issue.md
+    ├── ticket-002-vpn-connection-issue.md
+    ├── ticket-003-printer-not-working.md
+    ├── ticket-004-slow-computer-performance.md
+    └── ticket-005-microsoft-365-login-issue.md
 ```
+
 
 
 ## Completed Tickets
