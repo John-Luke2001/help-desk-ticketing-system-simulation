@@ -28,14 +28,18 @@ help-desk-ticketing-system-simulation/
 │   └── ticket-template.md
 │
 └── tickets/
-    └── ticket-001-password-reset.md
+    ├── ticket-001-password-reset.md
+    └── ticket-002-vpn-connection-issue.md
 ```
+
 
 ## Completed Tickets
 
-| Ticket     | Issue                  | Category       | Status   |
-| ---------- | ---------------------- | -------------- | -------- |
-| Ticket 001 | Password Reset Request | Account Access | Resolved |
+| Ticket     | Issue                  | Category             | Status   |
+| ---------- | ---------------------- | -------------------- | -------- |
+| Ticket 001 | Password Reset Request | Account Access       | Resolved |
+| Ticket 002 | VPN Connection Issue   | Network / VPN Access | Resolved |
+
 
 ## Purpose
 
