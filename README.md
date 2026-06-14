@@ -58,3 +58,16 @@ This project was created as part of my entry-level IT and cybersecurity portfoli
 ## What I Learned
 
 Through this project, I practiced documenting user issues clearly, following a structured troubleshooting process, communicating resolutions, and identifying when escalation may be needed.
+## Ticket Workflow Screenshots
+
+This project includes screenshots of a simulated help desk ticketing workflow using GitHub Issues. The screenshots show ticket creation, labels, troubleshooting documentation, resolution comments, and closed ticket status.
+
+### Screenshots Included
+
+* Ticket 001: Closed Password Reset Request
+* Ticket 002: Closed VPN Connection Issue
+* Ticket 003: Closed Printer Support Issue
+* Ticket 004: Closed Slow Computer Performance Issue
+* Ticket 005: Closed Microsoft 365 Login Issue
+* Closed ticket list showing all completed tickets
+
