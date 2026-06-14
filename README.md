@@ -35,12 +35,14 @@ help-desk-ticketing-system-simulation/
 
 ## Completed Tickets
 
-| Ticket     | Issue                     | Category                      | Status   |
-| ---------- | ------------------------- | ----------------------------- | -------- |
-| Ticket 001 | Password Reset Request    | Account Access                | Resolved |
-| Ticket 002 | VPN Connection Issue      | Network / VPN Access          | Resolved |
-| Ticket 003 | Printer Not Working       | Hardware / Printer Support    | Resolved |
-| Ticket 004 | Slow Computer Performance | Windows Support / Performance | Resolved |
+| Ticket     | Issue                     | Category                       | Status   |
+| ---------- | ------------------------- | ------------------------------ | -------- |
+| Ticket 001 | Password Reset Request    | Account Access                 | Resolved |
+| Ticket 002 | VPN Connection Issue      | Network / VPN Access           | Resolved |
+| Ticket 003 | Printer Not Working       | Hardware / Printer Support     | Resolved |
+| Ticket 004 | Slow Computer Performance | Windows Support / Performance  | Resolved |
+| Ticket 005 | Microsoft 365 Login Issue | Microsoft 365 / Account Access | Resolved |
+
 
 
 ## Purpose
